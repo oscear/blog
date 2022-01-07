@@ -1,0 +1,22 @@
+﻿{% block content %}
+    {% load static %}
+    #加载静态文件
+
+
+    <div class="FriendLink hidden-xs clearfix">
+        <div class="title"><h3>友情链接：</h3></div>
+        <ul class="clears">
+
+            <h2>hi,{{ name }}</h2>
+             <h2>hi,{{ link3 }}</h2>
+
+            <div class="title"><h3>调试联接链接：</h3></div>
+
+            {% for l in link1 %}
+                <li>{{ l.name }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    </div>
+{% endblock %}
+

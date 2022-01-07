@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../APItest/.idea/APItest.iml" filepath="$PROJECT_DIR$/../APItest/.idea/APItest.iml" />
+      <module fileurl="file://D:/YOYO/.idea/YOYO.iml" filepath="D:/YOYO/.idea/YOYO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aMyProbjects/helloword/.idea/helloword.iml" filepath="$PROJECT_DIR$/../aMyProbjects/helloword/.idea/helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APItest/.idea/interfaceTest.iml" filepath="$PROJECT_DIR$/../APItest/.idea/interfaceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myblog.iml" filepath="$PROJECT_DIR$/.idea/myblog.iml" />
+    </modules>
+  </component>
+</project>
